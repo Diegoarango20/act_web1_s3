@@ -13,7 +13,7 @@ for (let i = 0; i < 15; i++) {
 
 console.log("Array generado:", numeros);
 
-// Elemento a buscar
+
 let objetivo = parseInt(prompt("Ingrese el número que desea buscar:"));
 
 let i = 0;
